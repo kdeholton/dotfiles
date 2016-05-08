@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/kyle/tmp'
+let g:netrw_dirhist_2='/home/kyle/tmp/tmp'
+let g:netrw_dirhist_3='/home/kyle/.i3'
+let g:netrw_dirhist_4='/home/kyle/Documents/cs378h/paxos/submit/tests'
+let g:netrw_dirhist_5='/home/kyle/Documents/cs378h/paxos/Project 2 (Paxos) Handout/tests'
+let g:netrw_dirhist_6='/home/kyle'
