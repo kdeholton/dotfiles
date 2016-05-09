@@ -1,0 +1,4 @@
+#!/bin/sh -e
+
+# Lock screen displaying this image.
+i3lock -i /home/kyle/.i3/win10.png -p win -u
