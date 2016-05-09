@@ -4,10 +4,6 @@
 cp .xbindkeysrc ~/
 cp .caps_super.xmodmap ~/
 
-# all the git config files
-mkdir -p ~/.git
-cp -r .git/* ~/.git/
-
 # all the vim config files
 mkdir -p ~/.vim
 cp .vimrc ~/
