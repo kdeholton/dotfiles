@@ -1,0 +1,19 @@
+# Increase volume
+"amixer set Master 3+"
+    XF86AudioRaiseVolume
+
+# Decrease volume
+"amixer set Master 3-"
+    XF86AudioLowerVolume
+
+# Mute volume
+"amixer set Master toggle; amixer set Headphone toggle; amixer set Speaker toggle; amixer set 'Bass Speaker' toggle"
+    XF86AudioMute
+
+# Increase brightness
+"xbacklight -inc 10"
+    XF86MonBrightnessUp
+
+# Decrease brightness
+"xbacklight -dec 10"
+    XF86MonBrightnessDown
