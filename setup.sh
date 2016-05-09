@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # all the keyboard mappings
-cp .xbindkeys ~/
+cp .xbindkeysrc ~/
 cp .caps_super.xmodmap ~/
 
 # all the git config files
